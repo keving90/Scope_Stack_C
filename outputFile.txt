@@ -1,0 +1,124 @@
+Character input '{' has been pushed into the scope stack.
+
+Input character 'x' is being ignored for now.
+
+Input character '+' is being ignored for now.
+
+Character input '(' has been pushed into the scope stack.
+
+Input character 'y' is being ignored for now.
+
+Input character '-' is being ignored for now.
+
+Character input '[' has been pushed into the scope stack.
+
+Input character 'a' is being ignored for now.
+
+Input character '+' is being ignored for now.
+
+Input character 'b' is being ignored for now.
+
+Input character is ']'. Expecting '[' to pop, popped character '['.
+
+Input character is ')'. Expecting '(' to pop, popped character '('.
+
+Input character '*' is being ignored for now.
+
+Character input '(' has been pushed into the scope stack.
+
+Input character 'c' is being ignored for now.
+
+Input character '-' is being ignored for now.
+
+Character input '[' has been pushed into the scope stack.
+
+Character input '(' has been pushed into the scope stack.
+
+Input character 'd' is being ignored for now.
+
+Input character '+' is being ignored for now.
+
+Input character 'e' is being ignored for now.
+
+Input character is ')'. Expecting '(' to pop, popped character '('.
+
+Input character is ']'. Expecting '[' to pop, popped character '['.
+
+Input character '+' is being ignored for now.
+
+Input character 'k' is being ignored for now.
+
+Input character is ')'. Expecting '(' to pop, popped character '('.
+
+Input character is '}'. Expecting '{' to pop, popped character '{'.
+
+Input character '/' is being ignored for now.
+
+Character input '(' has been pushed into the scope stack.
+
+Input character 'h' is being ignored for now.
+
+Input character '-' is being ignored for now.
+
+Character input '(' has been pushed into the scope stack.
+
+Input character 'j' is being ignored for now.
+
+Input character '-' is being ignored for now.
+
+Character input '(' has been pushed into the scope stack.
+
+Input character 'k' is being ignored for now.
+
+Input character '-' is being ignored for now.
+
+Character input '[' has been pushed into the scope stack.
+
+Input character 'l' is being ignored for now.
+
+Input character '-' is being ignored for now.
+
+Input character 'n' is being ignored for now.
+
+Input character is ']'. Expecting '[' to pop, popped character '['.
+
+Input character is ')'. Expecting '(' to pop, popped character '('.
+
+Input character is ')'. Expecting '(' to pop, popped character '('.
+
+Input character is ')'. Expecting '(' to pop, popped character '('.
+
+Input character '+' is being ignored for now.
+
+Character input '{' has been pushed into the scope stack.
+
+Input character 'u' is being ignored for now.
+
+Input character '+' is being ignored for now.
+
+Character input '[' has been pushed into the scope stack.
+
+Input character 'm' is being ignored for now.
+
+Input character '*' is being ignored for now.
+
+Character input '(' has been pushed into the scope stack.
+
+Input character 'p' is being ignored for now.
+
+Input character '-' is being ignored for now.
+
+Input character 'q' is being ignored for now.
+
+Input character is ')'. Expecting '(' to pop, popped character '('.
+
+Input character is ']'. Expecting '[' to pop, popped character '['.
+
+Input character '/' is being ignored for now.
+
+Input character 'r' is being ignored for now.
+
+Input character is '}'. Expecting '{' to pop, popped character '{'.
+
+This expression is valid!
+
